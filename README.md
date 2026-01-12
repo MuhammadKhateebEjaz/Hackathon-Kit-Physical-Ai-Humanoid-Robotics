@@ -1,1 +1,1 @@
-# 1Hackathon-Kit-Physical-Ai-Humanoid-Robotics
+# Hackathon-Kit-Physical-Ai-Humanoid-Robotics
